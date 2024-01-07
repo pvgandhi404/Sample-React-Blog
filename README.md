@@ -1,3 +1,7 @@
+# Sample React Blog
+
+A full-stack web application developed using React, where users can create and publish blog posts, login securely, and filter through other users' blog posts using a custom-built API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
